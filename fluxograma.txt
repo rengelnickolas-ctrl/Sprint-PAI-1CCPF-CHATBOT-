@@ -1,0 +1,48 @@
+                +-------------------+
+                |   Usuário inicia  |
+                +---------+---------+
+                          |
+                          v
+              +-----------+-----------+
+              | Identificar persona   |
+              | (técnico, morador,    |
+              | síndico ou comercial) |
+              +-----------+-----------+
+                          |
+                          v
+              +-----------+-----------+
+              | Receber pergunta do   |
+              | usuário               |
+              +-----------+-----------+
+                          |
+                          v
+              +-----------+-----------+
+              | Buscar contexto       |
+              | (FAQ, manuais,        |
+              | chamados, regras)     |
+              +-----------+-----------+
+                          |
+                          v
+              +-----------+-----------+
+              | Enviar contexto para  |
+              | o modelo de IA        |
+              +-----------+-----------+
+                          |
+                          v
+              +-----------+-----------+
+              | Gerar resposta do     |
+              | chatbot               |
+              +-----------+-----------+
+                          |
+                          v
+              +-----------+-----------+
+              | Resposta resolveu?    |
+              +-----+-----------+-----+
+                    |           |
+                  SIM          NÃO
+                    |           |
+                    v           v
+          +---------+--+   +---+----------------+
+          | Finalizar |   | Encaminhar para    |
+          | conversa  |   | suporte humano     |
+          +------------+  +--------------------+
