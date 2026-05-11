@@ -19,4 +19,18 @@ Nathan Hiroshi - 572806
 
 # Proposta:
 
-Busca auxiliar funcionarios e clientes da GoodWe, buscando a melhor solução para resolver os problemas que ocorrem em seus produtos
+A proposta do projeto foi criar um chatbot inteligente de suporte GoodWe utilizando IA para automatizar atendimentos iniciais e fornecer respostas contextualizadas conforme o perfil do usuário.
+
+# Modelo de teste: gemini 2.5 flash
+
+# Problemas Abordados
+
+O chatbot foi desenvolvido para resolver problemas comuns no suporte técnico e comercial da GoodWe, principalmente relacionados ao atendimento de clientes e parceiros.
+
+# Tecnologias Selecionadas
+
+Python utilizado para integração com IA, interface terminal e manipulação de contexto
+
+# Justificativa técnica
+
+Grande compatibilidade com IA, facilidade de manutenção e suporte a APIs
