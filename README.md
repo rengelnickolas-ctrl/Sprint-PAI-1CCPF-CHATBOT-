@@ -34,3 +34,7 @@ Python utilizado para integração com IA, interface terminal e manipulação de
 # Justificativa técnica
 
 Grande compatibilidade com IA, facilidade de manutenção e suporte a APIs
+
+# Observação
+
+O usuário deve abrir o arquivo ipynb e colocar sua própria API Key do Gemini
