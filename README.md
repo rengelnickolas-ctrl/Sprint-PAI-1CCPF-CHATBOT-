@@ -14,7 +14,7 @@ Marcelo do Nascimento RM: 569410
 Rodrigo Zambelle - RM: 570425
 
 
-Nathan Hiroshi - 572806
+Nathan Hiroshi - RM: 572806
 
 
 # Proposta:
