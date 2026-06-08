@@ -1,6 +1,6 @@
 # Projeto: Chatbot de Suporte da GoodWe
 
-# Membros: 
+## Membros: 
 
 Rodrigo Santana - RM: 572454
 
@@ -17,24 +17,27 @@ Rodrigo Zambelle - RM: 570425
 Nathan Hiroshi - RM: 572806
 
 
-# Proposta:
+## Proposta:
 
 A proposta do projeto foi criar um chatbot inteligente de suporte GoodWe utilizando IA para automatizar atendimentos iniciais e fornecer respostas contextualizadas conforme o perfil do usuário.
 
-# Modelo de teste: gemini 2.5 flash
+## Modelo de teste: gemini 2.5 flash
 
-# Problemas Abordados
+## Problemas Abordados
 
 O chatbot foi desenvolvido para resolver problemas comuns no suporte técnico e comercial da GoodWe, principalmente relacionados ao atendimento de clientes e parceiros.
 
-# Tecnologias Selecionadas
+## Tecnologias Selecionadas
 
 Python utilizado para integração com IA, interface terminal e manipulação de contexto
 
-# Justificativa técnica
+## Justificativa técnica
 
 Grande compatibilidade com IA, facilidade de manutenção e suporte a APIs
 
-# Observação
+## Bibliotecas que precisam ser instaladas
+pip install google-generativeai
+
+## Observação
 
 O usuário deve abrir o arquivo ipynb e colocar sua própria API Key do Gemini
