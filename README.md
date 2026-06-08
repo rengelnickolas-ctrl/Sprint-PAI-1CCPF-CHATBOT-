@@ -35,9 +35,10 @@ Python utilizado para integração com IA, interface terminal e manipulação de
 
 Grande compatibilidade com IA, facilidade de manutenção e suporte a APIs
 
-## Bibliotecas que precisam ser instaladas
+## Dependências
+Para rodar o projeto, você precisará do Python 3.10 ou superior da biblioteca google-generativeai, para instalar é preciso:
+google_generative-ai : para comunicação com os modelos Gemini.
+
+### Instalação das Dependências
+Caso vá executar o projeto localmente, instale executando o comando abaixo no terminal:
 pip install google-generativeai
-
-## Observação
-
-O usuário deve abrir o arquivo ipynb e colocar sua própria API Key do Gemini
